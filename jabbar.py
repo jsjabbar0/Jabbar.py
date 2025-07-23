@@ -1,4 +1,4 @@
-from mahdix import *
+
 
 import re,requests,os,sys
 
